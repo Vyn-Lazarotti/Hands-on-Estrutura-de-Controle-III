@@ -21,27 +21,27 @@ public class bee1038 {
         switch (code) {
           case 1:
               int hotDog = qt * 4;
-              System.out.println("Total: " + hotDog);
+              System.out.println("Total: R$ " + hotDog);
               break;
             
           case 2:
               double saladX = qt * 4.50;
-              System.out.println("Total: " + saladX);
+              System.out.println("Total: R$ " + saladX);
               break;
 
           case 3:
               int baconX = qt * 5;
-              System.out.println("Total: " + baconX);
+              System.out.println("Total: R$ " + baconX);
               break;
 
           case 4:
               int toast = qt * 2;
-              System.out.println("Total " + toast);
+              System.out.println("Total R$ " + toast);
               break;
 
           case 5:
               double soda = qt * 1.50;
-              System.out.println("Total: " + soda);
+              System.out.println("Total: R$ " + soda);
               break;
             
           default:
